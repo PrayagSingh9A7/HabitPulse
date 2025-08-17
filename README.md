@@ -1,2 +1,17 @@
-# HabitPulse
-HabitPulse is a React Native habit tracker that helps you build consistency by tracking daily tasks and progress. It saves your task history, shows completion percentage, and visualizes growth with charts. Start fresh each day, stay motivated, and own your daily routine!
+# 📱HabitPulse
+
+HabitPulse is a modern habit tracking app built with React Native & Expo. It helps you stay consistent, productive, and motivated by organizing your daily tasks and visualizing your progress.
+
+✨ Key Features:
+
+✅ Add, complete, and track daily tasks
+
+📊 View detailed progress with percentage completion
+
+📈 Analyze your growth over time with interactive charts
+
+💾 Data persistence using AsyncStorage (your progress stays safe)
+
+🌈 Clean and engaging UI with gradient backgrounds
+
+Whether you're building new habits or improving productivity, HabitPulse keeps your daily rhythm in check and your goals within reach.
