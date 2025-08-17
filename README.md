@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -48,3 +49,22 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+=======
+# 📱HabitPulse
+
+HabitPulse is a modern habit tracking app built with React Native & Expo. It helps you stay consistent, productive, and motivated by organizing your daily tasks and visualizing your progress.
+
+✨ Key Features:
+
+✅ Add, complete, and track daily tasks
+
+📊 View detailed progress with percentage completion
+
+📈 Analyze your growth over time with interactive charts
+
+💾 Data persistence using AsyncStorage (your progress stays safe)
+
+🌈 Clean and engaging UI with gradient backgrounds
+
+Whether you're building new habits or improving productivity, HabitPulse keeps your daily rhythm in check and your goals within reach.
+>>>>>>> 208882f9b82adf73f64f498dff938f8e848d0b84
